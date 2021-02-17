@@ -16,14 +16,14 @@ export function Footer() {
   ];
   return (
     <div style={{ background: "#f1faee" }} className="py-4 flex justify-center">
-      <div className="flex gap-6 max-w-screen-lg mx-auto">
+      <div className="flex max-w-screen-lg mx-auto">
         {dataFooter.map((i) => (
           <a
             key={i.link}
             target="_blank"
             rel="noreferrer"
             href={i.link}
-            className="text-2xl text-red-primary"
+            className="text-2xl text-red-primary mr-4"
           >
             {i.icon}
           </a>

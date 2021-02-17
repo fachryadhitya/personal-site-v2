@@ -43,7 +43,7 @@ export function MainAbout() {
           <a
             target="_blank"
             href="https://github.com/fachryadhitya"
-            className="p-2 border-2 border-b-4 w-52 rounded-md border-dark-blue-primary bg-blue-primary text-white-primary font-bold border-opacity-100 mt-4 "
+            className="flex mx-auto md:mx-0 p-2 border-2 border-b-4 w-52 rounded-md border-dark-blue-primary bg-blue-primary text-white-primary font-bold border-opacity-100 mt-4 "
           >
             Get to know me more! ;)
           </a>

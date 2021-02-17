@@ -6,8 +6,8 @@ export function MainHome({ props }) {
     <>
       <div className="bg-light-blue-primary min-h-screen">
         <div className=" flex flex-col justify-around py-5 px-6 mx-auto container md:max-w-screen-md lg:max-w-screen-lg">
-          <div className="flex flex-col gap-8 border-2 border-t-4  border-b-4 p-4 md:p-7 rounded-md border-opacity-40 border-red-primary">
-            <div className=" font-serif text-xl text-center">
+          <div className="flex flex-col border-2 border-t-4  border-b-4 p-4 md:p-7 rounded-md border-opacity-40 border-red-primary">
+            <div className=" font-serif text-xl text-center mb-4">
               <h1 className="leading-10 font-bold">Hi, I'm Fachry</h1>
               <h2 className="font-sans leading-7 text-dark-blue-primary">
                 Software Developer based in Jakarta, Indonesia.
