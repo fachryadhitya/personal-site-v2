@@ -22,6 +22,13 @@ const dataProject = [
     website: "https://foodsort.netlify.com",
     sourceCode: "https://github.com/fachryadhitya/Food-Sort-Web-App",
   },
+  {
+    title: "React CSV Parse",
+    desc:
+      "Parse your CSV file to virtualization table. It can handle big data CSV file as well 👀",
+    website: "https://github.com/fachryadhitya",
+    sourceCode: "https://github.com/fachryadhitya/csv-parser",
+  },
 ];
 
 const Projects = ({ dataProject }) => {
