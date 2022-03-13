@@ -7,11 +7,10 @@ export function MainAbout() {
             I'm currently living in Tangerang, Indonesia.
           </h1>
           <p className="font-serif text-md md:text-lg mt-2 leading-8">
-            Right now, I'm studying in Binus University majoring in Computer
-            Science. I'm in my 2nd year as a college student.
+    I studied Computer Science in Binus University.
           </p>
           <p className="font-serif text-md md:text-lg mt-2 leading-8">
-            Lately, I make software using React and Javascript, but my current
+            I make software using React and Javascript, but my current
             focus is in <span className="font-bold">Typescript</span> and{" "}
             <span className="font-bold">Node.js</span>.
           </p>
